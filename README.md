@@ -4,7 +4,7 @@ N'guia Adon Apo
 
 # ContactsManager
 
- Exercice 1 : Projet Java orienté objet.
+ Exercice 1 : Gestionnaire de Contacts.
 
 ## Description
 Application de gestion de contacts en Java.
